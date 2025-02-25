@@ -2,7 +2,7 @@
 
 This is the official website for the **PSDV Exposition Assignment**, by Group J012.
 
-## Live Demo
+## Blog Site
 [Click here to view](https://kanan-10.github.io/PSDV/)
 
 ## Video for the Assignment
