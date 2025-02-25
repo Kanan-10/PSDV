@@ -11,7 +11,7 @@ body {
 
 /* Header */
 header {
-    background: #0056b3;
+    background: #222;
     color: white;
     padding: 20px 0;
 }
@@ -38,7 +38,7 @@ section {
 
 /* Footer */
 footer {
-    background: #0056b3;
+    background: #222;
     color: white;
     padding: 10px;
 }
